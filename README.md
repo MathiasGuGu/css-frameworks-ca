@@ -1,2 +1,2 @@
 # css-frameworks-ca
-Replace this text with a description of your social media project.
+It is a (un)Complete social media app where users can share photos and communicate
